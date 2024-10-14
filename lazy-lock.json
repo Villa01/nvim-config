@@ -13,6 +13,7 @@
   "none-ls-extras.nvim": { "branch": "main", "commit": "dfdc998a8c7bb728abab156942bd43ed2345845a" },
   "none-ls.nvim": { "branch": "main", "commit": "3cc6c6ae11c89a6963f0b5a25ad2ce211039faf2" },
   "nui.nvim": { "branch": "main", "commit": "a2bc1e9d0359caa5d11ad967cd1e30e8d4676226" },
+  "nvim-autopairs": { "branch": "master", "commit": "ee297f215e95a60b01fde33275cc3c820eddeebe" },
   "nvim-cmp": { "branch": "main", "commit": "ae644feb7b67bf1ce4260c231d1d4300b19c6f30" },
   "nvim-dap": { "branch": "master", "commit": "281a2e4cd1e7a17cea7ecb1745d84a8ab1249925" },
   "nvim-dap-go": { "branch": "main", "commit": "5511788255c92bdd845f8d9690f88e2e0f0ff9f2" },
